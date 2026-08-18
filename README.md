@@ -1,3 +1,3 @@
-# voidbr-pkgfile
+# conectux-xfce-theme
 
-Template for VoidBR pkgmake/pkgfile packages
+Tema da Conectux com XFCE

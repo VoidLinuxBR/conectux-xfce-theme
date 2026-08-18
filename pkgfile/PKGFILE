@@ -1,7 +1,7 @@
-# Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
+# Maintainer: Eduardo Charquero <m3vorak@gmail.com>
 
-pkgname=voidbr-pkgname
-pkgdesc="Package template for VoidLinuxBR"
+pkgname=conectux-xfce-theme
+pkgdesc="Tema da Conectux com XFCE"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 provides=()               # "eu SOU o $pkgname pkg1, pra quem depender deles"
